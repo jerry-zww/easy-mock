@@ -7,3 +7,9 @@
 `cd easy-mock/docker-composer`
 
 `docker-compose -f docker-compose.yml up -d`
+
+# 验证
+
+`docker-compose -f docker-compose.yml ps`
+
+`curl http://localhost:7300`
