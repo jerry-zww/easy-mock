@@ -4,6 +4,6 @@
 
 `git clone https://github.com/jerry-zww/easy-mock`
 
-`cd easy-mock/docker-compose`
+`cd easy-mock/docker-composer`
 
 `docker-compose -f docker-compose.yml up -d`
